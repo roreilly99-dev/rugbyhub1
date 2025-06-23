@@ -5,7 +5,7 @@ import { signIn, signOut, useSession, getProviders } from 'next-auth/react'
 
 const Nav = () => {
   return (
-    <nav>Nav</div>
+    <nav>Nav</nav>
   )
 }
 
